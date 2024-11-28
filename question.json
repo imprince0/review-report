@@ -1,0 +1,60 @@
+{
+    "Questions": {
+        "INNOVATE": [
+            "I encourage new ideas from my team members",
+            "I stay updated on industry trends and share new ideas with my team members",
+            "I recognize and reward my team members for their ideas",
+            "I pay attention to new ideas from my team and provide feedback and support in developing their ideas",
+            "I am open to taking risks when I believe that an idea is good and worth implementation"
+        ],
+        "COACHING": [
+            "I listen attentively when my team member(s) speak with me",
+            "I provide constructive feedback to my team member(s) on a periodic basis",
+            "I coach my team member(s) and tailor my approach to individual developmental needs",
+            "I regularly have one-on-one meetings and follow up on their work and career goals",
+            "I often ask open-ended questions when I speak to my team member(s)"
+        ],
+        "INCLUSION": [
+            "I encourage ideas and opinions from diverse members of my team",
+            "I encourage everyone to speak up candidly",
+            "I create an environment of respect in the meetings that I conduct",
+            "I consult my team for most of the key decisions pertaining to them",
+            "I am aware of my emotions in most settings"
+        ],
+        "CHALLENGE": [
+            "I challenge myself and my team members to push ourselves at work",
+            "I look for opportunities to set higher goals",
+            "I encourage my team members to develop a solution-oriented mindset",
+            "I lead by example in getting out of my comfort zone",
+            "I collaborate with other teams when there is a challenging assignment"
+        ],
+        "EMPOWER": [
+            "I leverage the strengths of my team members",
+            "I set clear expectations and keep my team member(s) informed about decisions",
+            "I provide necessary resources and support to my team member(s)",
+            "I don’t micro-manage the tasks that I assign to my team member(s)",
+            "I trust my team members when I assign them a task"
+        ],
+        "ENGAGEMENT": [
+            "I have a strong emotional connection with the organization",
+            "I have a strong sense of purpose and direction, aligned to the organization’s objectives",
+            "I am approachable to my team members and actively encourage open communication",
+            "I am motivated to go above and beyond for the organization, as it’s meaningful to me",
+            "I provide opportunities to grow, develop, and contribute to all my team members"
+        ],
+        "ENVIRONMENT": [
+            "I create a psychologically safe environment by encouraging open dialogue",
+            "I am transparent in all interactions with my team",
+            "I have a deep sense of empathy for my team members",
+            "I provide and support equal opportunities for my team members",
+            "I treat my team members with respect"
+        ],
+        "WORK-LIFE BALANCE": [
+            "I believe my team members have a good work-life balance",
+            "I refrain from calling my team members when they are on leave/off-working hours",
+            "I make conscious efforts to accommodate special needs of my team members",
+            "I encourage my team members to take personal time off/leave",
+            "I lead by example leveraging flexibility in a responsible way"
+        ]
+    }
+}

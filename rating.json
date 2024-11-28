@@ -1,0 +1,33 @@
+{
+    "SurveyDetails": {
+        "TotalQuestions": 40,
+        "AreasAssessed": [
+            "Innovate",
+            "Coaching",
+            "Inclusion",
+            "Challenge",
+            "Empower",
+            "Engagement",
+            "Environment",
+            "Work-life Balance"
+        ]
+    },
+    "ParticipantDetails": {
+        "Name": "Jim Cook",
+        "Title": "Sr Manager Product Management (IND)",
+        "JobLevel": "SDM | SM",
+        "ManagerName": "Jacob N.",
+        "TowerDirector": "Jacob N.",
+        "Stream": "Corporate"
+    },
+    "Rating": {
+        "INNOVATE": [10, 8, 8, 9, 10],
+        "COACHING": [8, 8, 9, 8, 8],
+        "INCLUSION": [10, 10, 10, 8, 8],
+        "CHALLENGE": [9, 10, 8, 10, 8],
+        "EMPOWER": [10, 8, 9, 10, 8],
+        "ENGAGEMENT": [7, 8, 10, 10, 10],
+        "ENVIRONMENT": [9, 8, 9, 9, 10],
+        "WORK-LIFE BALANCE": [10, 10, 8, 10, 10]
+    }
+}
